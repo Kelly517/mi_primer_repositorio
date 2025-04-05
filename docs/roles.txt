@@ -1,0 +1,6 @@
+Líder del proyecto: Kellys
+Colaboradores: Milton, Manuela
+
+Kellys: creó el repositorio y estructura base
+Milton: desarrollará la sección de presentación
+Manuela: escribirá el documento de análisis
